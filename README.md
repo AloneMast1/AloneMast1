@@ -3,6 +3,7 @@
 #include <time.h>
 int main() 
 {
+   
     int numberToGuess, userGuess, attempts = 0;
 
     
